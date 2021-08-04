@@ -16,12 +16,14 @@ author: Felipe Mohr
 navbar-links:
   Nossos Prêmios: 
     - Concurso Fotos SAC BR 2021: "2021-06-24-concurso-fotos-sacbr-2021"
-    - Financiamento BayIEEEmax:
+    - Financiamento BayIEEEmax: "2021-07-01-bayieeemax-financiamento"
     - Concurso Fotos IEEE DAY 2018:
     - Núcleo de Capacitação em Arduino SAC BR 2018:
   Projetos:
     - Em Andamento: "projects-inprog"
     - Finalizados: "projects-done"
+  Eventos:
+    - RASWEEKENDS: "rasweekend"
   Capítulos:
     - EMBS: "capitulo-EMBS"
     - PES: "capitulo-PES"
@@ -113,7 +115,7 @@ navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#002855"
-hover-col: "#00629B"
+hover-col: "#006bb6"
 footer-col: "#75787B"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#002855"
